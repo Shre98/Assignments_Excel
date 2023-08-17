@@ -1,0 +1,50 @@
+Advance Excel Assignment 5
+
+
+1. How many types of conditions are available in conditional formatting on Excel?
+
+ANS: There are five different types of conditional formatting in Excel. 
+These types are- Highlight Cells Rules, Top and Bottom Rules, Data Bars, Color Scales, and Icon Sets.
+
+
+2. How to insert border in Excel with Format Cells dialog?
+
+ANS: Select one or more cells to which you'd like to add borders.
+Open the Format Cells dialog box by doing one of the following:
+Click the down arrow next to the Borders button, and then click More Borders at the bottom of the drop-down list.
+Right click the selected cells and choose Format Cells… from the context menu.
+Press Ctrl+1 shortcut.
+In the Format Cells dialog box, switch to the Border tab and choose the line style and color first. 
+And then, either use Presets to add the outside or inside borders or construct the desired border by selecting individual elements such as border top, bottom, right or left. 
+The preview diagram will reflect the changes immediately.
+When done, click OK.
+
+
+3. How to Format Numbers as Currency in Excel?
+
+ANS: On the Home tab, click the Dialog Box Launcher next to Number.
+or: You can also press Ctrl+1 to open the Format Cells dialog box. 
+In the Format Cells dialog box, in the Category list, click Currency or Accounting.
+In the Symbol box, click the currency symbol that you want.
+
+
+4. What are the steps to format numbers in Excel with the Percent style?
+
+ANS:On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box.
+In the Format Cells dialog box, in the Category list, click Percentage.
+In the Decimal places box, enter the number of decimal places that you want to display.
+
+
+5. What is a shortcut to merge two or more cells in excel?
+
+ANS: To merge two or more cells, highlight them and then press the following keys at the same time: ALT H+M+M.
+
+
+6. How do you use text commands in Excel?
+
+ANS: Press Ctrl+1  to bring up the Format Cells dialog.
+Select the format you want from the Number tab.
+Select the Custom option,
+The format code you want is now shown in the Type box. In this case, select everything from the Type box except the semicolon (;) and @ symbol.
+Press Ctrl+C to copy the format code, then press Cancel to dismiss the Format Cells dialog.
+Now, all you need to do is press Ctrl+V to paste the format code into your TEXT formula
